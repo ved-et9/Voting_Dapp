@@ -9,5 +9,6 @@
 
 
 ### Deployed Website
-![Uploading image.png…]()
+![image](https://github.com/ved-et9/Voting_Dapp/assets/98445270/a880188c-8ba3-49f3-abb0-2b4a9675a2ab)
+
 
